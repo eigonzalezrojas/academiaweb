@@ -368,7 +368,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #272727;
+  color: #F29B33;
 }
 
 .navbar-mobile .getstarted,
@@ -1966,7 +1966,7 @@ section {
 
 .column {
 	flex: 1;
-	border: 1px solid gray;
+	/* border: 1px solid gray; */
 	margin: 2px;
 	padding: 10px;
 	
@@ -1991,3 +1991,5 @@ section {
           margin: 0 0 5px 0;
       }
   }
+
+  
